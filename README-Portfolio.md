@@ -1,4 +1,4 @@
-# Enrico [NOM] — Data & AI Delivery Architect
+# Enrico RILCY — Data & AI Delivery Architect
 
 **Senior Data & AI Project / Platform Manager** · 11+ ans en Data, BI et pilotage de projets · Nantes / Paris
 
