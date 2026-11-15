@@ -95,7 +95,7 @@ Rôle complet d'éditeur : cadrage produit, spécifications, architecture (React
 
 ---
 
-## Projets Databricks — programme personnel de 6 semaines
+## Projets Databricks — programme personnel
 
 Travaux pratiques réalisés sur Databricks Free Edition, dans le cadre d'un programme personnel de montée en compétence sur le Lakehouse. Chaque projet produit une preuve : notebook, plan d'exécution annoté ou schéma d'architecture.
 
